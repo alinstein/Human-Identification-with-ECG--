@@ -29,10 +29,13 @@ Enter the values for the following varible before running the main program, defa
 
 ### Results
 
-: A sample ECG signal segment
-Final vector representation of the ECG signal
-Sparse coefficient vector generated from the local segment using ADMM
+A sample ECG signal segment:
 
+![ECG image](https://github.com/alinstein/Human-Identification-with-ECG--/blob/master/observation/ecg.jpg)
+
+Final sparse coefficient vector representation of the above ECG signal:
+
+![Sparse coefficient](https://github.com/alinstein/Human-Identification-with-ECG--/blob/master/observation/maxpol2.jpg)
 Following table shows the results obtained:
 
 ![Result image](https://github.com/alinstein/Human-Identification-with-ECG--/blob/master/Results.JPG)
