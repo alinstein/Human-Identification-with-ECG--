@@ -11,7 +11,8 @@ This method achieves a 96.00% accuracy on a 10 subject dataset.
 
 ## Getting Started
 
-The code for the project implemented using ADMM is in file "Code_ADMM_method.mat" 
+The code for the project implemented using ADMM is in file "Code_ADMM_method.mat".
+ 
 In the file "Final Code.mat", you can find code for optimization using all the method such as ADMM, Proximal Point Algrithm and CVX.
 
 
