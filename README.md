@@ -24,9 +24,13 @@ Nseg:                  Total number of training and testing segments for patient
 ntr:                   Number of train segments for patients
 
 nte:                   Number of test segments for patients
+
 K:                     Size of dictonary is d by K
+
 st1,st2,st3:           Initial random states.
+
 d:                     Length of window used to create a local segment
+
 gp: number of samples a local segment differs from the next local segment.
 
 
