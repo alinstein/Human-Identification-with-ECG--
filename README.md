@@ -18,8 +18,11 @@ In the file "Final Code.mat", you can find code for optimization using all the m
 Enter the values for the following varible before running the main program, default values are given in program:
 
 Nopatient:             Number of patients
+
 Nseg:                  Total number of training and testing segments for patients
+
 ntr:                   Number of train segments for patients
+
 nte:                   Number of test segments for patients
 K:                     Size of dictonary is d by K
 st1,st2,st3:           Initial random states.
