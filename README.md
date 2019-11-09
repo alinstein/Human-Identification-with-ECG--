@@ -35,7 +35,7 @@ Sparse coefficient vector generated from the local segment using ADMM
 
 Following table shows the results obtained:
 
-![Result image](https://github.com/alinstein/Human-Identification-using-ECG/blob/master/Results.JPG)
+![Result image](https://github.com/alinstein/Human-Identification-with-ECG--/blob/master/Results.JPG)
 
 ## References
 
