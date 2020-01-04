@@ -53,6 +53,7 @@ Following table shows the results obtained:
 
 [1] J. Wang, M. She, S. Nahavandi and A. Kouzani, "Human Identification From ECG Signals Via Sparse Representation of Local Segments," in IEEE Signal Processing Letters, vol. 20, no. 10, pp. 937-940, Oct. 2013.
 doi: 10.1109/LSP.2013.2267593
+
 [2] W.-S. Lu, Course notes of Advanced Mathematical optimizations. 
 
 ## Author
