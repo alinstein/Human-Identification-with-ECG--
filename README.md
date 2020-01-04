@@ -31,7 +31,7 @@ This method achieves a 96.00% accuracy on a 10 subject dataset.
 
 * d:                     Length of window used to create a local segment
 
-*gp: number of samples a local segment differs from the next local segment.
+* gp: number of samples a local segment differs from the next local segment.
 
 
 #### More details are in report.pdf
