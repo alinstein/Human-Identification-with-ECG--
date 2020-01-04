@@ -10,31 +10,31 @@ This method achieves a 96.00% accuracy on a 10 subject dataset.
 
 ## Getting Started
 
-The code for the project implemented using ADMM is in file "Code_ADMM_method.mat".
+* The code for the project implemented using ADMM is in file "Code_ADMM_method.mat".
  
-In the file "Final Code.mat", you can find code for optimization using all the method such as ADMM, Proximal Point Algrithm and CVX.
+* In the file "Final Code.mat", you can find code for optimization using all the method such as ADMM, Proximal Point Algrithm and CVX.
 
 
-Enter the values for the following varible before running the main program, default values are given in program:
+* Enter the values for the following varible before running the main program, default values are given in program:
 
-Nopatient:             Number of patients
+* Nopatient:             Number of patients
 
-Nseg:                  Total number of training and testing segments for patients
+* Nseg:                  Total number of training and testing segments for patients
 
-ntr:                   Number of train segments for patients
+* ntr:                   Number of train segments for patients
 
-nte:                   Number of test segments for patients
+* nte:                   Number of test segments for patients
 
-K:                     Size of dictonary is d by K
+* K:                     Size of dictonary is d by K
 
-st1,st2,st3:           Initial random states.
+* st1,st2,st3:           Initial random states.
 
-d:                     Length of window used to create a local segment
+* d:                     Length of window used to create a local segment
 
-gp: number of samples a local segment differs from the next local segment.
+*gp: number of samples a local segment differs from the next local segment.
 
 
-More details are in report.pdf
+#### More details are in report.pdf
 
 ### Results
 
@@ -55,12 +55,6 @@ Following table shows the results obtained:
 doi: 10.1109/LSP.2013.2267593
 [2] W.-S. Lu, Course notes of Advanced Mathematical optimizations. 
 
-## Authors
+## Author
 
-%Written by Alinstein Jose, University of Victoria.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
+Written by Alinstein Jose, University of Victoria.
